@@ -1,0 +1,97 @@
+.Button1
+{
+    background-color: rgb(152, 39, 39);
+    text-align: center;
+    margin: auto;
+    width: 50%;
+    border-radius: 25px;
+    padding: 5px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    margin-top: 1%;
+}
+.Button1_Text
+{
+    display: block;
+    width: 100%;
+    font-size: 50px;
+    text-decoration: none;
+    color: white;
+}
+#MainMenuText
+{
+    text-align: center;
+    color: green;
+    margin: auto;
+    padding-top: 5%;
+    font-size: 90px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#RVT_Muzejs
+{
+    background: url("data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAASwAAACoCAMAAABt9SM9AAAAdVBMVEX///8AAADo6Oj39/fs7Oz5+fnMzMzb29v8/PyLi4unp6fT09Pw8PDAwMBqamri4uIjIyNvb297e3szMzNaWlo4ODgNDQ21tbUgICBVVVUpKSkVFRWhoaGGhoZhYWFPT09GRkaZmZlJSUk/Pz92dnawsLDFxcXPYmZHAAACSklEQVR4nO3WW5OiMBCG4W4JR2VRFERU1Dn9/5+4naCss7N7OWOV9T4XAyTNVOWr0EYEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA/xHH/m+UXR+nG+fsLjKxZFEoDDMLN5bd3h7Ls7Hw7vVntFi2bV+KaDI+R7oK11y7TqNUzUbK3g/tCpGq2fdqV9G5Hzrs2/3+aCElvnAledvqZvGYlfwApwtJNZ3CKgb1G+R0Wvjdk6pkWfYnLKdbC8ynNYaV/7K4VxpZWKHwrRapm4ct5rv5sGTIp7Ca5NXy2Or4lI7XKawhbLtSs7uwLNnah+XVFtZMI3lSzi+t397CcirFTmRzGWctLN+Kyq5K0+pc3Kr8TrwLq+x8WL6wPopcTo9Yx49wWmx3zdSzDrXEFt/+fZxNte/ai22lZr1u9D3SKgxr+SksS2quy64tpG5flrtHLONnOK2P1t9vYb32p5P1pfNhnP30GW6Ka0RfdtZy+gzf4uQa6DNyoZ/fwprpfJ4eT5Kfx9m/e1aT+5u5vXMf1vCpZ/km/6RCg5fbr9tlCENRpCGVL2Eltqck00vYXCb3Db+wf3EXlnWwZzWF1a3XXdVu/f3yIFWvw7C3c5Y1q956lh/23+a77gY9TvW5rob2debblhWuZfVmRwmdPW453yu7rszNTDw+LHx+VZk4m/UkDqd2548EUfIR0g0TmfvYJmEuHgvDm7OnPToAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPAvvwFT3haFDpFIdQAAAABJRU5ErkJggg==") no-repeat center center fixed;
+    background-size: cover;
+}
+#Brivais_laiks
+{
+    font-size: 70px;
+    margin-top: 8%;
+    margin-left: 5%;
+    color: rgb(219, 110, 0);
+}
+#Brivais_laiks h1
+{
+    padding-bottom: 0;
+    margin-bottom: 0;
+}
+#Brivais_laiks_text
+{
+    margin-left: 5%;
+    margin-right: 8%;
+    text-align: justify;
+    color: rgb(219, 110, 0);
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    height: 15%;
+    display: flex;
+}
+.ButtonLeft
+{
+    height: 65%;
+    width: 5%;
+    margin-left: 25%;
+    border-radius: 50%;
+    font-size: 40px;
+    color: white;
+    background-color: orange;
+}
+.ButtonRight
+{
+    height: 65%;
+    width: 5%;
+    margin-left: 5%;
+    border-radius: 50%;
+    font-size: 40px;
+    color: white;
+    background-color: orange;
+}
+.footer p
+{
+    margin-left: 5%;
+    color: rgb(219, 110, 0);
+}
+a
+{
+    text-decoration: none;
+}
+.footer a
+{
+    color: white;
+    width: 100%;
+    height: 100%;
+}
+
+
