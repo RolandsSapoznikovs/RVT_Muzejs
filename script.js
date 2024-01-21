@@ -27,3 +27,15 @@ function Dejas2Forward()
 {
     location.href = "Dejas2.html";
 }
+
+const openBtn = document.getElementById("DejasMore");
+const closeBtn = document.getElementById("CloseDejasPopup");
+const modal = document.getElementById("modal");
+
+openBtn.addEventListener("click", () => {
+    modal.classList.add("open");
+})
+
+closeBtn.addEventListener("click", () => {
+    modal.classList.remove("open");
+})
