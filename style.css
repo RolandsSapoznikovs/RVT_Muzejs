@@ -198,7 +198,17 @@ a
     left: 50%;
     transform: translate(-50%, -50%);
     display: inline-block;
-    
+}
+
+.ImgDiv2
+{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    display: inline-block;
+    width: 100%;
+    text-align: center;
 }
 
 .Popup button
@@ -228,6 +238,7 @@ a
     align-items: center;
     justify-content: center;
 }
+
 
 .modal.open
 {
@@ -268,6 +279,11 @@ a
     background-color: rgb(157, 6, 6);
 }
 
+.greenbutton
+{
+    background-color: green;
+}
+
 .redtext
 {
     color: rgb(157, 6, 6);
@@ -276,6 +292,11 @@ a
 .orangetext
 {
     color: orange;
+}
+
+.greentext
+{
+    color: green;
 }
 
 

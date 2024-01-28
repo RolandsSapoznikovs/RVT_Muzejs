@@ -68,6 +68,26 @@ function PirmsvestureForward()
     location.href = "Pirmsvesture_izvelne.html"
 }
 
+function MehNodBack()
+{
+    location.href = "Macibas.html"
+}
+
+function MehNodForward()
+{
+    location.href = "Mehanikas_nodala2.html"
+}
+
+function IkdienaBack()
+{
+    location.href = "Pasniedzeji.html"
+}
+
+function IkdienaForward()
+{
+    location.href = "Ikdiena2.html"
+}
+
 const openBtn = document.getElementById("DejasMore");
 const closeBtn = document.getElementById("CloseDejasPopup");
 const modal = document.getElementById("modal");
